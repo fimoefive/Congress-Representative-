@@ -1,0 +1,28 @@
+.Logo {
+    display: flex;
+    align-self: center;
+justify-content: center;
+}
+
+article {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+}
+
+h2 {
+    
+    font: 35px bold;
+    margin: 2em;
+}
+
+h1 {
+    display: flex;
+    justify-content: center;
+    font-size: 40px;
+}
+
+body {
+    background-color: rgb(161, 161, 165);
+    font-size-adjust: 18px;
+}
